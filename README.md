@@ -1,14 +1,14 @@
 # Message_Bomber_4_Whatsapp_Web
 
-Requirements
+### Requirements
 
     Python 3
     pip 3
     pynput
    
-(Make sure that whatsapp web is open before running the script.)    
+#### (Make sure that whatsapp web is open before running the script.)    
     
-How to use (Windows)
+### How to use (Windows)
 
     1.Download and install Python3 from https://python.org
     2.Bring it to system environment variables
@@ -18,7 +18,7 @@ How to use (Windows)
     6.Run it from CMD!
     7.Done!
 
-How to use (Linux - Debian based with apt)
+### How to use (Linux - Debian based with apt)
 
     1.sudo apt install python3
     2.sudo apt install python3-pip
@@ -28,6 +28,6 @@ How to use (Linux - Debian based with apt)
     6.python3 MSG_Bomber_4_Whatsapp_web.py
     7.Done!
 
-License
+### License
 
     This program has been licensed under the GNU GPL v3 License.
