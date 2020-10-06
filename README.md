@@ -8,10 +8,12 @@
     
 # (Make sure that whatsapp web is open before running the script.)    
     
-How to use (Windows)
+# How to use (Windows)
 
-    Download and install Python from https://python.org
-    Install pynput 
+    Download and install Python3 from https://python.org
+    Bring it to system environment variables
+    Download & install pip3
+    Install pynput (from CMD: python3 -m pip install pynput)
     Download by script from here
     Run it from CMD!
     Done!
