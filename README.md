@@ -6,6 +6,8 @@ Requirements
     pip 3
     pynput
     
+#Make sure that whatsapp web is open before running the script.    
+    
 How to use (Windows)
 
     Download and install Python from https://python.org
@@ -26,4 +28,4 @@ How to use (Linux - Debian based with apt)
 
 License
 
-This program has been licensed under the GNU GPL v3 License.
+    This program has been licensed under the GNU GPL v3 License.
