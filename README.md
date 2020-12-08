@@ -28,6 +28,4 @@
     6.python3 MSG_Bomber_4_Whatsapp_web.py
     7.Done!
 
-### License
 
-    This program has been licensed under the GNU GPL v3 License.
